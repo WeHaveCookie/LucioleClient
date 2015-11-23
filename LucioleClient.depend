@@ -1,0 +1,318 @@
+# depslib dependency file v1.0
+1428766170 source:/home/cookie/Dropbox/Project Mémé/Reseau/LucioleSDLUnix/main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL.h>
+
+1428764785 >
+
+1340285254 /usr/include/SDL/SDL.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1340285254 e.h"
+
+1340285254 /usr/include/SDL/SDL_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1340285254 /usr/include/SDL/SDL_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1340285254 /usr/include/SDL/SDL_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1079365820 
+
+1340285254 /usr/include/SDL/SDL_platform.h
+
+1340285254 /usr/include/SDL/begin_code.h
+
+1340285254 /usr/include/SDL/close_code.h
+
+1340285254 /usr/include/SDL/SDL_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1340285254 /usr/include/SDL/SDL_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1340285254 /usr/include/SDL/SDL_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1340285254 /usr/include/SDL/SDL_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1340285254 /usr/include/SDL/SDL_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1340285254 /usr/include/SDL/SDL_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1340285254 /usr/include/SDL/SDL_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1340285254 /usr/include/SDL/SDL_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1340285254 /usr/include/SDL/SDL_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1340285254 /usr/include/SDL/SDL_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1340285254 /usr/include/SDL/SDL_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1340285254 /usr/include/SDL/SDL_keysym.h
+
+1340285254 /usr/include/SDL/SDL_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1340285254 /usr/include/SDL/SDL_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1340285254 /usr/include/SDL/SDL_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1340285254 /usr/include/SDL/SDL_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1340285254 .h"
+
+1340285254 /usr/include/SDL/SDL_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1340285254 /usr/include/SDL/SDL_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1340285254 /usr/include/SDL/SDL_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1428765198 source:/home/cookie/Dropbox/Project Mémé/Reseau/LucioleSDLUnix/src/client.c
+	<stdio.h>
+	<signal.h>
+	<curses.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<pthread.h>
+	<SDL/SDL.h>
+	"../include/game.h"
+
+1428765149 e/game.h"
+
+1428764785 /home/cookie/Dropbox/Project Mémé/Reseau/LucioleSDLUnix/include/game.h
+	<stdlib.h>
+	<stdio.h>
+	<pthread.h>
+	<SDL/SDL.h>
+
+1428765149 source:/home/cookie/Dropbox/Project Mémé/Reseau/LucioleSDLUnix/src/game.c
+	"../include/game.h"
+
+1428765149 source:/home/cookie/Dropbox/Project Mémé/Reseau/LucioleClient/src/game.c
+	"../include/game.h"
+
+1428764785 /home/cookie/Dropbox/Project Mémé/Reseau/LucioleClient/include/game.h
+	<stdlib.h>
+	<stdio.h>
+	<pthread.h>
+	<SDL/SDL.h>
+
+1428700384 source:/home/cookie/Dropbox/Project Mémé/Reseau/Luciole/LucioleClient/src/fon.c
+	<stdarg.h>
+	<string.h>
+	"../include/fon.h"
+
+1428700384 e/fon.h"
+
+1079362220 /home/cookie/Dropbox/Project Mémé/Reseau/Luciole/LucioleClient/include/fon.h
+	<stdio.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<errno.h>
+	<netinet/in.h>
+	<netdb.h>
+
+1428765149 source:/home/cookie/Dropbox/Project Mémé/Reseau/Luciole/LucioleClient/src/game.c
+	"../include/game.h"
+
+1428764785 /home/cookie/Dropbox/Project Mémé/Reseau/Luciole/LucioleClient/include/game.h
+	<stdlib.h>
+	<stdio.h>
+	<pthread.h>
+	<SDL/SDL.h>
+
+1429696703 source:/home/cookie/Dropbox/Project Mémé/Reseau/Luciole/LucioleClient/src/client.c
+	<stdio.h>
+	<signal.h>
+	<curses.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<sys/wait.h>
+	<pthread.h>
+	<SDL/SDL.h>
+	"../include/game.h"
+
+1428700384 source:g:\document\dropbox\project m�m�\reseau\luciole\lucioleclient\src\fon.c
+	<stdarg.h>
+	<string.h>
+	"../include/fon.h"
+
+1079365820 g:\document\dropbox\project m�m�\reseau\luciole\lucioleclient\include\fon.h
+	<stdio.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<errno.h>
+	<netinet/in.h>
+	<netdb.h>
+
+1428765149 source:g:\document\dropbox\project m�m�\reseau\luciole\lucioleclient\src\game.c
+	"../include/game.h"
+
+1428764785 g:\document\dropbox\project m�m�\reseau\luciole\lucioleclient\include\game.h
+	<stdlib.h>
+	<stdio.h>
+	<pthread.h>
+	<SDL/SDL.h>
+
+1428700384 source:/home/cookie/Dropbox/Project Mémé/Reseau/Luciole/LucioleClient/src/fon.c
+	<stdarg.h>
+	<string.h>
+	"../include/fon.h"
+
+1079362220 /home/cookie/Dropbox/Project Mémé/Reseau/Luciole/LucioleClient/include/fon.h
+	<stdio.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<errno.h>
+	<netinet/in.h>
+	<netdb.h>
+
+1428765149 source:/home/cookie/Dropbox/Project Mémé/Reseau/Luciole/LucioleClient/src/game.c
+	"../include/game.h"
+
+1428764785 /home/cookie/Dropbox/Project Mémé/Reseau/Luciole/LucioleClient/include/game.h
+	<stdlib.h>
+	<stdio.h>
+	<pthread.h>
+	<SDL/SDL.h>
+
+1431449038 source:/home/cookie/Dropbox/Project Mémé/Reseau/Luciole/LucioleClient/src/client.c
+	<stdio.h>
+	<signal.h>
+	<curses.h>
+	<sys/socket.h>
+	<sys/types.h>
+	<sys/wait.h>
+	"../include/fon.h"
+	<pthread.h>
+	<SDL/SDL.h>
+	"../include/game.h"
+
